@@ -1,4 +1,6 @@
 #!/bin/sh
+# This script assumes you attach an SSH public key to your Vultr VPS upon creation
+# Change below to your desired username
 USER_NAME=RaptorJesus
 
 echo "Updating System"
